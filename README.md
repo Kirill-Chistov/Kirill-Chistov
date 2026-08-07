@@ -33,5 +33,3 @@ Student and indie developer building apps, websites, and strange internet experi
 | --- | --- |
 | [VibeMenu](https://github.com/Kirill-Chistov/VibeMenu) | Keeps your Mac awake while supported AI coding agents work, then releases it when they finish |
 | [SideQuests](https://sidequest-irl.vercel.app) | Real-life challenges, spontaneous experiences, and unexpected social connections |
-
-test
